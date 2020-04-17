@@ -12,25 +12,26 @@ A cross platform tool that finds available delivery slots for Big Basket Home de
 ## Option 1 - Use of executables
 
 1. Download the respective executable file for MAC OS and Windows OS:
-	* MAC - Click here [a link] (https://drive.google.com/uc?export=download&id=1AOPl3jIzNtWpxP543o2XUqb8EsHQe7Wv)
-	* Windows - Click here [a link] (https://drive.google.com/uc?export=download&id=1Tn1eu60OteRH0JkfF0HqnmkSU9UEwSlj)
-2. Run the respective executable file.
-3. The tool will automatically download the compatible Google Chrome driver during the first run in line with you browser version. If promted, click allow access.
-4. A new incognito Google Chrome window will be launched. Login to your Big Basket account and select your delivery location within 60 seconds:
+	* MAC - Click [here](https://drive.google.com/uc?export=download&id=1AOPl3jIzNtWpxP543o2XUqb8EsHQe7Wv)
+	* Windows - Click [here](https://drive.google.com/uc?export=download&id=1Tn1eu60OteRH0JkfF0HqnmkSU9UEwSlj)
+2. Unzip the file
+3. Run the respective executable file.
+4. The tool will automatically download the compatible Google Chrome driver during the first run in line with you browser version. If promted, click allow access.
+5. A new incognito Google Chrome window will be launched. Login to your Big Basket account and select your delivery location within 60 seconds:
 ![BigBasket Login](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/login.png)
-5. After 60 seconds, the launched Google Chrome window will be minimized and process will keep running the background. You can always open the Google Chrome window and check the status. DO NOT explicitly close the launched window if you want to keep the process running in the background. 
-6. Your Big Basket cart/basket with complete order at checkout page would look like this:
+6. After 60 seconds, the launched Google Chrome window will be minimized and process will keep running the background. You can always open the Google Chrome window and check the status. DO NOT explicitly close the launched window if you want to keep the process running in the background. 
+7. Your Big Basket cart/basket with complete order at checkout page would look like this:
 ![BigBasket Cart](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/mybasket.png)
-7. You will be alerted once a slot is found. 
-8. The voice notification will be sent out when a slot is found.
-9. Once you're notified, quickly select a slot and finish checking out because available slots disappear almost instantly.
+8. You will be alerted once a slot is found. 
+9. The voice notification will be sent out when a slot is found.
+10. Once you're notified, quickly select a slot and finish checking out because available slots disappear almost instantly.
 
 ## Option 2 - Execution of Source Code 
 
 1. Make sure Python 3.x is installed on your system
 2. Clone the repo
-3. Run `<pip3 install -r requirements.txt>`
-4. Run `<python3 bigbasket_slotfinder.py>`
+3. Run `pip3 install -r requirements.txt`
+4. Run `python3 bigbasket_slotfinder.py`
 
 ## Inspiration and idea behind this tool:
 
