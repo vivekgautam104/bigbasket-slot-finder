@@ -15,6 +15,16 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "shivangimgupta",
+      "name": "shivangimgupta",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32472018?v=4",
+      "profile": "https://github.com/shivangimgupta",
+      "contributions": [
+        "userTesting",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
