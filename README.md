@@ -15,7 +15,7 @@ A cross platform tool that finds available delivery slots for Big Basket Home de
 
 1. Download the respective executable file for MAC OS and Windows OS:
 	* MAC - Click [here](https://github.com/vivekgautam104/bigbasket-slot-finder/releases/download/v1.0/bigbasket_slotfinder_macOS.zip)
-	* Windows - Click [here](https://github.com/vivekgautam104/bigbasket-slot-finder/releases/download/v1.0/bigbasket_slotfinder_windows.zipj)
+	* Windows - Click [here](https://github.com/vivekgautam104/bigbasket-slot-finder/releases/download/v1.0/bigbasket_slotfinder_windows.zip)
 
 2. Unzip the file
 
