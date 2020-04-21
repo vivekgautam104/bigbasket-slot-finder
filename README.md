@@ -7,7 +7,7 @@ A cross platform tool that finds available delivery slots for Big Basket Home de
 ****
 Users in United States can use our other tool for the ["Amazon Fresh" delivery tool](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19)
 ****
-Last Updated - April 20,2020. If downloaded your executable on or before April 20,2020, please download the new executable to benefit from the new features released.
+Last Updated - 20-04-2020. If you downloaded the executable file on or before 20-04-2020, please download the new executable file to benefit from the new features released.
 ****
 
 ## Pre-requisites: 
