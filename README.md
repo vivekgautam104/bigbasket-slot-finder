@@ -5,15 +5,16 @@
 A cross platform tool that finds available delivery slots for Big Basket Home delivery site.
 
 ****
-Users in United States can use our other tool for the ["Amazon Fresh" delivery website](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19)
+Users in United States can use our other tool for the ["Amazon Fresh" delivery tool](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19)
 ****
-
+Last Updated - April 20, 2020
+****
 
 ## Pre-requisites: 
 
 1. Please make sure that you have Google Chrome browser installed on your system. The tools works only with Google Chrome.
 
-2. Fill up your cart/basket with your complete order before running the process.
+2. Fill up your cart/basket with your complete order before running the process so as to quickly proceed with checkout as soon as a slot is found. However, you can fill up your cart after launching the application as well.
 
 3. Turn up the volumne of your system for the voice notification.
 
@@ -22,8 +23,8 @@ Users in United States can use our other tool for the ["Amazon Fresh" delivery w
 ## Option 1 - Download and run the executables
 
 1. Download the respective executable file for MAC OS and Windows OS:
-	* MAC - Click [here](https://github.com/vivekgautam104/bigbasket-slot-finder/releases/download/v1.0/bigbasket_slotfinder_macOS.zip)
-	* Windows - Click [here](https://github.com/vivekgautam104/bigbasket-slot-finder/releases/download/v1.0/bigbasket_slotfinder_windows.zip)
+	* MAC - Click [here](https://github.com/vivekgautam104/bigbasket-slot-finder/files/4507568/bigbasket_slotfinder_macOS.zip)
+	* Windows - Click [here](https://github.com/vivekgautam104/bigbasket-slot-finder/files/4507569/bigbasket_slotfinder_win.zip)
 
 2. Unzip the file
 
@@ -41,33 +42,37 @@ Users in United States can use our other tool for the ["Amazon Fresh" delivery w
 
 ## Instructions:
 
-1. The tool will automatically download the compatible Google Chrome driver during the first run in line with your browser version. If promted, click allow access.
+1. Run the executable file. Click on “Launch Big Basket” to proceed.
 
-2. A new incognito Google Chrome window will be launched. Login to your Big Basket account and select your delivery location within 60 seconds:
+![GUILaunch](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/DeliverySlotFinderLaunchBigBasket.png)
+
+2. The tool will automatically download the compatible Google Chrome driver during the first run in line with your browser version. If promted, click allow access.
+
+3. A new incognito Google Chrome window will be launched and redirected to Big Basket sign in page. Login to your Big Basket account and select your delivery location:
 
 ![BigBasket Login](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/login.png)
 
-3. After 60 seconds, the launched Google Chrome window will be minimized and process will keep running in the background. You can always open the Google Chrome window and check the status. DO NOT explicitly close the launched window if you want to keep the process running in the background. 
+4. Fill up your Big Basket cart/basket with your complete order, reach the checkout page which would look like this:
 
-4. Your Big Basket cart/basket with complete order at checkout page would look like this:
+![BasketPage](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/basketpage.png)
 
-![BigBasket Cart](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/mybasket.png)
+5. Click on “Notify Me” button on the tool and turn up the volume of your system.
 
-5. You will be alerted once a slot is found. 
+![GuiNotifyMe](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/DeliverySlotFinderNotifyMe.png)
 
-6. The voice notification will be sent out when a slot is found.
+6. The application will keep running in the background, checking for available slots. The voice notification will be sent out once a slot is found.
 
-7. Once you're notified, quickly select a slot and finish checking out because available slots disappear almost instantly.
+7. DO NOT explicitly close the launched window if you want to keep the tool running in the background. 
+
+8. Once you're notified, quickly select a slot and finish checking out because available slots disappear almost instantly.
 
 
 ## Inspiration and idea behind this tool:
 
-The Coronavirus 2019 pandemic caused a surge in demand for grocery delivery services, making it nearly impossible to find an open delivery slot. My intention in providing this tool is to help people getting the essentials at their doorsteps without having to step out of home. The idea sprang up when I saw my friends and family struggling to get groceries and essentials due to unavailability of slots.
+The Coronavirus 2019 pandemic caused a surge in demand for grocery delivery services, making it nearly impossible to find an open delivery slot. My intention in providing this tool is to help people get the essentials at their doorsteps without having to step out of home. The idea sprang up when I saw my friends and family struggling to get groceries and essentials due to unavailability of slots.
 
 ## Notes:
 1. The script will stop running if you navigate elsewhere from the checkout page. You need to re-run the process and re-login for the code to continue finding the slots.
-
-2. If you are unable to login and select a delivery address within 60 seconds, you need to re-run the process.
 
 3. If you are logged out due to inactive session, you need to re-run the process.
 
