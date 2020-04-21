@@ -14,7 +14,7 @@ Last Updated - April 20, 2020
 
 1. Please make sure that you have Google Chrome browser installed on your system. The tools works only with Google Chrome.
 
-2. Fill up your cart/basket with your complete order before running the process so as to quickly proceed with checkout as soon as a slot is found. However, you can fill up your cart after launching the application as well.
+2. Fill up your cart/basket with your complete order before running the tool so as to quickly proceed with checkout as soon as a slot is found. However, you can fill up your cart after launching the application as well.
 
 3. Turn up the volumne of your system for the voice notification.
 
@@ -72,9 +72,9 @@ Last Updated - April 20, 2020
 The Coronavirus 2019 pandemic caused a surge in demand for grocery delivery services, making it nearly impossible to find an open delivery slot. My intention in providing this tool is to help people get the essentials at their doorsteps without having to step out of home. The idea sprang up when I saw my friends and family struggling to get groceries and essentials due to unavailability of slots.
 
 ## Notes:
-1. The script will stop running if you navigate elsewhere from the checkout page. You need to re-run the process and re-login for the code to continue finding the slots.
+1. The script will stop running if you navigate elsewhere from the checkout page. You need to re-run the tool and re-login for the code to continue finding the slots.
 
-3. If you are logged out due to inactive session, you need to re-run the process.
+2. If you are logged out due to inactive session, you need to re-run the tool.
 
 
 ## Disclaimer:
