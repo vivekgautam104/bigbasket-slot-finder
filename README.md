@@ -1,4 +1,4 @@
-# ![BasketLogo](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/images/shopping_cart.png) Big Basket Home Delivery Slot Finder
+# Big Basket Home Delivery Slot Finder
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
