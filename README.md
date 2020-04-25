@@ -1,11 +1,13 @@
-# ![Logo](https://raw.githubusercontent.com/vivekgautam104/instacart-slot-finder/master/images/logo_70x70.png) Big Basket Home Delivery Slot Finder
+# ![Logo](https://raw.githubusercontent.com/vivekgautam104/bigbasket-slot-finder/master/SlotFinder/master/images/logo_70x70.png) Big Basket Home Delivery Slot Finder
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A cross platform tool that finds available delivery slots for Big Basket Home delivery site.
 
 ****
-Users in United States can use our other tool for the ["Amazon Fresh" delivery tool](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19)
+Users in United States can use our other tools for "Amazon Fresh" and "Instacart":
+1. ["Amazon Fresh" delivery](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19)
+2. ["Instacart" delivery](https://github.com/vivekgautam104/instacart-slot-finder)
 ****
 Last Updated: 20-04-2020. If you downloaded the executable file on or before 20-04-2020, please download the new executable file to benefit from the new features released.
 ****
