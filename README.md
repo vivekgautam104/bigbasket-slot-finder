@@ -1,4 +1,4 @@
-# Big Basket Home Delivery Slot Finder
+# ![Logo](https://raw.githubusercontent.com/vivekgautam104/instacart-slot-finder/master/images/logo_70x70.png) Big Basket Home Delivery Slot Finder
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->

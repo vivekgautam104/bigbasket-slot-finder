@@ -321,7 +321,7 @@ def send_voice_notifications(slot_found):
             try:
                 try:
                     import win32com.client
-                    import pythomcom
+                    import pythoncom
                     pythoncom.CoInitialize()
                     from win32com.client import Dispatch
                     speak = Dispatch("SAPI.SpVoice")
